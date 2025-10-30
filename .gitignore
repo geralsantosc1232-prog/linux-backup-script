@@ -1,0 +1,7 @@
+# Secrets y configs
+config.env
+
+# Logs y temporales
+logs/
+*.enc
+/tmp/
